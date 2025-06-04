@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Inti Raymi",
+    "country": "Peru",
+    "region": "Cusco",
+    "month": "June",
+    "purpose": "Honoring the Sun God Inti during the winter solstice",
+    "description": "Reenactment of Incan ceremonies with music, dance, and offerings."
+  },
+  {
+    "name": "Pachamama Raymi",
+    "country": "Ecuador",
+    "region": "Sierra",
+    "month": "August",
+    "purpose": "Thanking Mother Earth for the harvest",
+    "description": "Offerings of food and drink are buried in ritual sites."
+  }
+]
